@@ -1,2 +1,2 @@
 # Seismic-Semblance-panels
-Generating semblance pannels (velocity pannels)
+Generating semblance pannels (velocity panels)
