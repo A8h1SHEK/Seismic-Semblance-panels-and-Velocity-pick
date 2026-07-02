@@ -6,4 +6,4 @@ Generating semblance pannels (velocity panels)
 you can download the seismic.segy file which is used here from the link. https://s3.amazonaws.com/open.source.geoscience/open_data/Mobil_Avo_Viking_Graben_Line_12/mobil_avo.html
 
 These notebooks can be used for study purpose only.
-For velocity models: https://zenodo.org/records/16114161
+For velocity models: https://www.geoazur.fr/WIND/bin/view/Main/Data/Marmousi
