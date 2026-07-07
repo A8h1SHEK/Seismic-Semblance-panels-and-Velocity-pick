@@ -7,3 +7,5 @@ you can download the seismic.segy file which is used here from the link. https:/
 
 These notebooks can be used for study purpose only.
 For velocity models: https://www.geoazur.fr/WIND/bin/view/Main/Data/Marmousi
+
+Other velocity Models: https://openfwi-lanl.github.io/docs/data.html#vel
